@@ -30,6 +30,8 @@ These samples demonstrate the input satellite images and their respective ground
   
 This project showcases the effectiveness of convolutional neural networks (CNNs) in the domain of satellite imagery analysis and provides a robust framework for future research and development in building detection.
 
+You can either run this on the kaggle environment, where you just need to follow both notebooks or folow the instructions below
+
 ## Installation Instructions
 
 To create and run the building detection model, we provide two Jupyter notebooks for your convenience:
