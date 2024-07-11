@@ -62,7 +62,7 @@ To create and run the building detection model, we provide two Jupyter notebooks
 
 
 ## Model Performance
-The performance of the ResNet segmentation model is evaluated using standard metrics such as Intersection over Union (IoU) and F1 score. The model achieves an IoU of XX% and an F1 score of YY% on the test dataset. These metrics indicate the model's ability to accurately detect and segment building footprints in satellite images.
+The performance of the ResNet segmentation model is evaluated using standard metrics such as Intersection over Union (IoU). The model achieves an IoU of 63% on the test dataset. These metrics indicate the model's ability to accurately detect and segment building footprints in satellite images.
 ![image](https://github.com/ugorjiizu/Spacenet-2-Paris-Building-Detection/assets/66518563/3d1be0dd-25b7-4662-94bc-ca90385601a7)
 
 Features
